@@ -1,0 +1,23 @@
+#h-txt{
+    color: aqua;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+    
+}
+
+#nav_btn{
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.t_m{
+    border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+
+    width: 500px;
+    height: 500px;
+    background: aqua;
+    border: 30px solid blue;
+}
